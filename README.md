@@ -1,9 +1,9 @@
-# ![https://misirio,com](https://github.com/MaxSNa15/MaxSNa15/blob/main/Emote.png) Hi, mi name is David Maximiliano Del Toro Nava 👋
+# ![](https://github.com/MaxSNa15/MaxSNa15/blob/main/Emote.png) Hi, mi name is David Maximiliano Del Toro Nava 👋
 ### Computer Systems Engineering student
 contact:
 <br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-David_Del_Toro-029ef0?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/david-maximiliano-del-toro-nava-b24792283)
-[![Github](https://img.shields.io/badge/Github-Max_Nava-152D3C?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/david-maximiliano-del-toro-nava-b24792283)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Max_Nava-029ef0?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](www.linkedin.com/in/maxsnava)
+[![Github](https://img.shields.io/badge/Github-Max_Nava-152D3C?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/MaxSNa15)
 
 ## About:
 I am a Computer Systems Engineering student with a passion for software development and videogames. Through my studies, I have gained skills in programming languages such as Java and Python, and have experience working on team projects to develop software solutions. I am seeking opportunities to apply and expand my skills while contributing to a dynamic team. I am a committed problem solver, always ready to take on new challenges.
