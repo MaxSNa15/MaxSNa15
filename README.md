@@ -1,4 +1,4 @@
-# ![](https://github.com/MaxSNa15/MaxSNa15/blob/main/Icon.png) Hi, mi name is David Maximiliano Del Toro Nava 👋
+# ![](https://github.com/MaxSNa15/MaxSNa15/blob/main/Icon.png) Hi, mi name is Maximiliano Nava 👋
 ### Computer Systems Engineering student
 
 ## Contact:
