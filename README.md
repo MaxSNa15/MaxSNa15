@@ -29,4 +29,3 @@ This is a list of some of the technologies and tools that I have worked with:
 ### Frameworks: 
 [![Unity](https://img.shields.io/badge/Unity-ffffff?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)]()
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=101010)]()
-[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)]()
