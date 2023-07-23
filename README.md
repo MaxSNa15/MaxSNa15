@@ -3,9 +3,10 @@
 
 ## Contact:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Max_Nava-029ef0?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/maxsnava/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Max_Nava-029ef0?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/maxsnava)
 [![Github](https://img.shields.io/badge/Github-Max_Nava-152D3C?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/MaxSNa15)
 [![Portfolio](https://img.shields.io/badge/Portfolio-MSN-938675?style=for-the-badge&logo=linktree&logoColor=white&labelColor=101010)](https://maxsna15.github.io/)
+[![Twitter](https://img.shields.io/badge/Twitter-029ef0?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/Max_SNava)
 
 ## About:
 I am a Computer Systems Engineering student with a passion for software development and videogames. Through my studies, I have gained skills in programming languages such as Java and Python, and have experience working on team projects to develop software solutions. I am seeking opportunities to apply and expand my skills while contributing to a dynamic team. I am a committed problem solver, always ready to take on new challenges.
