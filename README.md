@@ -3,7 +3,6 @@
 
 ## Contact:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Max_Nava-029ef0?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/maxsnava)
 [![Github](https://img.shields.io/badge/Github-Max_Nava-152D3C?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/MaxSNa15)
 [![Portfolio](https://img.shields.io/badge/Portfolio-MSN-938675?style=for-the-badge&logo=linktree&logoColor=white&labelColor=101010)](https://maxsna15.github.io/)
 [![Twitter](https://img.shields.io/badge/Twitter-029ef0?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/Max_SNava)
@@ -25,7 +24,7 @@ This is a list of some of the technologies and tools that I have worked with:
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white&labelColor=101010)]()
 [![Rust](https://img.shields.io/badge/Rust-F76D0A?style=for-the-badge&logo=rust&logoColor=white&labelColor=101010)]()
 [![SQL](https://img.shields.io/badge/SQL-FCB908?style=for-the-badge&logo=liquibase&logoColor=white&labelColor=101010)]()
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()
+
 <br>
 ### Frameworks: 
 [![Unity](https://img.shields.io/badge/Unity-ffffff?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)]()
