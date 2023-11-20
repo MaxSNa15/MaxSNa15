@@ -1,5 +1,5 @@
-# ![](https://github.com/MaxSNa15/MaxSNa15/blob/main/Icon.png) Hi, mi name is Maximiliano Nava 👋
-### Computer Systems Engineering student
+# Hi, mi name is Max SNa 👋
+### Computer Systems Engineering
 
 ## Contact:
 
