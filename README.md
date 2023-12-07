@@ -2,7 +2,6 @@
 ### Computer Systems Engineering
 
 ## Contact:
-
 [![Github](https://img.shields.io/badge/Github-Max_Nava-152D3C?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/MaxSNa15)
 [![Portfolio](https://img.shields.io/badge/WEB-MSN-0f90f9?style=for-the-badge&logo=linktree&logoColor=white&labelColor=101010)](https://maxsna.dev/)
 [![Twitter](https://img.shields.io/badge/Twitter-029ef0?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/Max_SNava)
@@ -14,12 +13,10 @@ I am a Computer Systems Engineering student with a passion for software developm
 This is a list of some of the technologies and tools that I have worked with:
 
 ### Tools:
-
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 [![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=101010)]()
 
 ### MY TOP Programming Languages:
-
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![Goolang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
@@ -33,10 +30,7 @@ This is a list of some of the technologies and tools that I have worked with:
 [![Rust](https://img.shields.io/badge/Rust-F76D0A?style=for-the-badge&logo=rust&logoColor=white&labelColor=101010)]()
 [![SQL](https://img.shields.io/badge/SQL-FCB908?style=for-the-badge&logo=liquibase&logoColor=white&labelColor=101010)]()
 
-<br>
-
 ### Librery and Frameworks:
-
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
 [![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)]()
