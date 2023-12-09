@@ -7,7 +7,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-029ef0?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/Max_SNava)
 
 ## About:
-I am a Computer Systems Engineering student with a passion for software development and videogames. Through my studies, I have gained skills in programming languages such as Java and Python, and have experience working on team projects to develop software solutions. I am seeking opportunities to apply and expand my skills while contributing to a dynamic team. I am a committed problem solver, always ready to take on new challenges.
+I am a Computer Systems Engineering student passionate about software development and video games. Through my studies, I have acquired skills in programming languages like Java and Python, and I have experience working on team projects to develop software solutions. Currently, I am focusing on web development with TypeScript, as well as on Python and Golang programming languages. I am looking for opportunities to apply and expand my skills while contributing to a dynamic team. I am a committed problem solver, always ready to take on new challenges.
 
 ## Technologies:
 This is a list of some of the technologies and tools that I have worked with:
@@ -19,7 +19,6 @@ This is a list of some of the technologies and tools that I have worked with:
 ### MY TOP Programming Languages:
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![Goolang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()
 
 #### Others 
