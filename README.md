@@ -23,10 +23,10 @@ This is a list of some of the technologies and tools that I have worked with:
 
 #### Others 
 [![Sharp](https://img.shields.io/badge/C_Sharp-6D287E?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)]()
-[![Plus](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=101010)]()
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-FD1413?style=for-the-badge&logo=coffeescript&logoColor=white&labelColor=101010)]()
 [![SQL](https://img.shields.io/badge/SQL-FCB908?style=for-the-badge&logo=liquibase&logoColor=white&labelColor=101010)]()
+
+
 
 ### Librery and Frameworks:
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
