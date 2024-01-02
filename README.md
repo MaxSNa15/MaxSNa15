@@ -1,4 +1,4 @@
-# Hi, mi name is Max SNa 👋
+# Hi, Max SNa 
 ### Computer Systems Engineering
 
 ## Contact:
@@ -7,7 +7,8 @@
 [![Twitter](https://img.shields.io/badge/Twitter-029ef0?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/Max_SNava)
 
 ## About:
-I am a Computer Systems Engineering student passionate about software development and video games. Through my studies, I have acquired skills in programming languages like Java and Python, and I have experience working on team projects to develop software solutions. Currently, I am focusing on web development with TypeScript, as well as on Python and Golang programming languages. I am looking for opportunities to apply and expand my skills while contributing to a dynamic team. I am a committed problem solver, always ready to take on new challenges.
+I am a Computer Systems Engineering student passionate about software development and video games. 
+I have acquired skills in programming languages like Java and Python, and I have experience working on team projects to develop software solutions.
 
 ## Technologies:
 This is a list of some of the technologies and tools that I have worked with:
@@ -25,8 +26,6 @@ This is a list of some of the technologies and tools that I have worked with:
 [![Sharp](https://img.shields.io/badge/C_Sharp-6D287E?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-FD1413?style=for-the-badge&logo=coffeescript&logoColor=white&labelColor=101010)]()
 [![SQL](https://img.shields.io/badge/SQL-FCB908?style=for-the-badge&logo=liquibase&logoColor=white&labelColor=101010)]()
-
-
 
 ### Librery and Frameworks:
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
