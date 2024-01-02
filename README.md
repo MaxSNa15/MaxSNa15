@@ -18,19 +18,17 @@ This is a list of some of the technologies and tools that I have worked with:
 
 ### MY TOP Programming Languages:
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-[![Goolang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=101010)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=101010)]()
 
 #### Others 
 [![Sharp](https://img.shields.io/badge/C_Sharp-6D287E?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)]()
 [![Plus](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=101010)]()
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-FD1413?style=for-the-badge&logo=coffeescript&logoColor=white&labelColor=101010)]()
-[![Rust](https://img.shields.io/badge/Rust-F76D0A?style=for-the-badge&logo=rust&logoColor=white&labelColor=101010)]()
 [![SQL](https://img.shields.io/badge/SQL-FCB908?style=for-the-badge&logo=liquibase&logoColor=white&labelColor=101010)]()
 
 ### Librery and Frameworks:
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
 [![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)]()
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=101010)]()
